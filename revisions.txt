@@ -5,3 +5,4 @@ Keep track of the project as it progresses.
 4/22/18 viewed data as binary decision tree
 4/23/18 Create recursive version
 -/--/-- upload version 1.2
+4/24/18 renamed methods for transparancy
